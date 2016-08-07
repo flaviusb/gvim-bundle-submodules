@@ -1,0 +1,9 @@
+[submodule "TwitVim"]
+	path = TwitVim
+	url = https://github.com/vim-scripts/TwitVim.git
+[submodule "vim-scala"]
+	path = vim-scala
+	url = https://github.com/derekwyatt/vim-scala.git
+[submodule "mdk"]
+	path = mdk
+	url = https://github.com/flaviusb/mdk.git
