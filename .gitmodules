@@ -1,6 +1,6 @@
 [submodule "TwitVim"]
 	path = TwitVim
-	url = https://github.com/vim-scripts/TwitVim.git
+	url = https://github.com/twitvim/twitvim.git
 [submodule "vim-scala"]
 	path = vim-scala
 	url = https://github.com/derekwyatt/vim-scala.git
