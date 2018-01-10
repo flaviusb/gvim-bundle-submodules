@@ -7,3 +7,9 @@
 [submodule "mdk"]
 	path = mdk
 	url = https://github.com/flaviusb/mdk.git
+[submodule "kotlin-vim"]
+	path = kotlin-vim
+	url = https://github.com/udalov/kotlin-vim
+[submodule "syntastic"]
+	path = syntastic
+	url = https://github.com/scrooloose/syntastic
